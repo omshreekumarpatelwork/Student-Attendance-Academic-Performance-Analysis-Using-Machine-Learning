@@ -1467,6 +1467,3 @@ Overall, the project provides a practical implementation of:
 This project is developed for **academic and educational purposes**.
 
 It is intended to demonstrate the practical implementation of Data Mining and Machine Learning concepts.
-
-```
-```
